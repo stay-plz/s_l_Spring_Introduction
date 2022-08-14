@@ -22,7 +22,7 @@ public class SpringConfig {
 //    private EntityManager em;
 //
 //    public SpringConfig(EntityManager em) {
-//        this.em = em;
+//        this.em = em;//        this.em = em;
 //    }
 
     //    DataSource dataSource;
